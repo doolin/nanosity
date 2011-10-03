@@ -3,6 +3,8 @@
  * Plugin name: List Stores
  * 
  * Description: Rewrite rule to list stores as children of Stores page
+ * 
+ * This is all code from Professional WP Plugin Development, Ch. 14.
  */
 
 
