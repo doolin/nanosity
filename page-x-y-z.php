@@ -1,7 +1,7 @@
 <?php
 
 //get_header();
-echo 'tag: slug';
+echo 'page: x-y-z';
 //get_footer();
 
 ?>

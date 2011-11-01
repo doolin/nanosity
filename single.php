@@ -1,7 +1,5 @@
 <?php
-
 get_header();
-echo 'tag: id';
+echo 'Post: a-b-c.php';
 get_footer();
-
 ?>
